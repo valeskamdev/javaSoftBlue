@@ -1,6 +1,6 @@
 package logica.variaveis;
 
-public class Main {
+public class Variaveis {
     public static void main(String[] args) {
 
         int idade = 20;  // declarando uma variável e atribuindo o valor 20 (inteiro)

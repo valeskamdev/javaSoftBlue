@@ -1,0 +1,31 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "x".(²Á²£ùÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "z".(ƒ¢î–
+P
+java:S1854"5Remove this useless assignment to local variable "y".(Äê¶ıÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "x".(ƒÑëØşÿÿÿÿ
+^
+java:S1854"CRemove this useless assignment to local variable "numeroDePessoas".(¼ıÂôşÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "idade".(ªäÿ°üÿÿÿÿ
+E
+java:S1481"*Remove this unused "idade" local variable.(ªäÿ°üÿÿÿÿ
+F
+java:S1481"+Remove this unused "ligado" local variable.(„€¢»ùÿÿÿÿ
+E
+java:S1481	"*Remove this unused "ativo" local variable.(Òªóìşÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¡•ªl
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ó”Í
+O
+java:S1481"4Remove this unused "numeroDePessoas" local variable.(¼ıÂôşÿÿÿÿ
+A
+java:S1481"&Remove this unused "x" local variable.(ƒÑëØşÿÿÿÿ
+A
+java:S1481"&Remove this unused "y" local variable.(Äê¶ıÿÿÿÿ
+<
+java:S1481"&Remove this unused "z" local variable.(ƒ¢î–
+A
+java:S1481"&Remove this unused "w" local variable.(‰îÛ›ıÿÿÿÿ

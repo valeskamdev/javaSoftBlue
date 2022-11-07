@@ -1,0 +1,9 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "texto1".(Ç¹…Ù
+F
+java:S1481	"+Remove this unused "texto1" local variable.(åÅœúÿÿÿÿ
+A
+java:S1481
+"+Remove this unused "texto2" local variable.(†¯µ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô¢«áüÿÿÿÿ
