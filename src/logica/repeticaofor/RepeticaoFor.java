@@ -4,21 +4,6 @@ import java.util.Scanner;
 
 public class RepeticaoFor {
     public static void main(String[] args) {
-
-        int x;
-
-        // imprimindo os números de 0 a 10
-        for(x = 0; x <= 10; x++) {
-            System.out.println(x);
-        }
-
-        // imprimindo os números pares(de dois em dois) de 0 a 10
-        for(int y = 0; y <= 10; y+=2) {
-            System.out.println(y);
-        }
-        System.out.println("-------------");
-        System.out.println(x);  // 11
-
         Scanner ler = new Scanner(System.in);
 
         System.out.println("Digite um número:");
