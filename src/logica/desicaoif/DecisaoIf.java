@@ -15,6 +15,6 @@ public class DecisaoIf {
         }else {
             System.out.println("Voce é adulto");
         }
-        System.out.println("FIm do programa!");
+        System.out.println("Fim do programa!");
     }
 }
