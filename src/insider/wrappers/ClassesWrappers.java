@@ -14,6 +14,7 @@ public class ClassesWrappers {
             int      -->   Integer
             boolean  -->   Boolean
             double   -->   Double
+            char     --> Character
          */
 
          int i = 10;
@@ -23,7 +24,7 @@ public class ClassesWrappers {
         i = integer.intValue();  // convertendo o objeto "Integer" de volta para um "int" primitivo
         System.out.println(i);
 
-        double d = null;   //tipos primitivos não podem recerber "null" como valor, apenas tipos de classe
+        // double d = null;  tipos primitivos não podem recerber "null" como valor, apenas tipos de classe
         Double d2 = null; // aceita valor null
 
        // usar wrapper para trabalhar com colecoes
